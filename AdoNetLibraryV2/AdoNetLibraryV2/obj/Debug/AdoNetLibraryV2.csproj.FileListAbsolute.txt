@@ -1,0 +1,7 @@
+C:\Users\twice\source\repos\AdoNetLibraryV2\AdoNetLibraryV2\bin\Debug\AdoNetLibraryV2.exe.config
+C:\Users\twice\source\repos\AdoNetLibraryV2\AdoNetLibraryV2\bin\Debug\AdoNetLibraryV2.exe
+C:\Users\twice\source\repos\AdoNetLibraryV2\AdoNetLibraryV2\bin\Debug\AdoNetLibraryV2.pdb
+C:\Users\twice\source\repos\AdoNetLibraryV2\AdoNetLibraryV2\obj\Debug\AdoNetLibraryV2.csproj.AssemblyReference.cache
+C:\Users\twice\source\repos\AdoNetLibraryV2\AdoNetLibraryV2\obj\Debug\AdoNetLibraryV2.csproj.CoreCompileInputs.cache
+C:\Users\twice\source\repos\AdoNetLibraryV2\AdoNetLibraryV2\obj\Debug\AdoNetLibraryV2.exe
+C:\Users\twice\source\repos\AdoNetLibraryV2\AdoNetLibraryV2\obj\Debug\AdoNetLibraryV2.pdb
